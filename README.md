@@ -16,7 +16,9 @@ tensorflow, keras, nltk, pickle. If not, then install the modules using the comm
 
 - [x] To open the GUI window and start conversation with the chatbot execute the "chatgui.py" file using the following command - {python chatgui.py}. It will open the GUI  window. 
 
-- [x] Write your text in the section on the right to the send button and click on "Send". Enjoy the responses !  
+- [x] Write your text in the section on the right to the send button and click on "Send". Enjoy the responses !
+
+
 
 
 
